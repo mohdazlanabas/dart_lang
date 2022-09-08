@@ -1,2 +1,2 @@
-# Dart Languahe
+# Dart Language
 - Dart syntax fimilarization
