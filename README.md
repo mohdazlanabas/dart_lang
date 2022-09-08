@@ -1,1 +1,2 @@
-A simple command-line application.
+# Dart Languahe
+- Dart syntax fimilarization
